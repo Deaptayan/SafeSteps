@@ -67,8 +67,8 @@ However, we plan to upgrade the project with full backend integration (Firebase 
 
 ## App Screenshots
 
-![Alt Text](https://imgur.com/a/cVQz7V0)
-![Alt Text](https://imgur.com/a/SFEaMmc)
+![Alt Text](https://i.imgur.com/FunjOSU.jpeg)
+![Alt Text](https://i.imgur.com/lukB5lb.jpeg)
 
 ---
 
