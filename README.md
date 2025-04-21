@@ -67,7 +67,8 @@ However, we plan to upgrade the project with full backend integration (Firebase 
 
 ## App Screenshots
 
-> *(Screenshots to be added here — simply upload your screenshots to the repository and embed them using Markdown syntax or GitHub image links)*
+![Alt Text](https://imgur.com/a/cVQz7V0)
+![Alt Text](https://imgur.com/a/SFEaMmc)
 
 ---
 
